@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ernest Addae"]
   spec.email         = ["earnestaddae@gmail.com"]
 
-  spec.summary       = "Adds a copyright to a rails application"
-  spec.description   = "Contains the features that enable you to add copy"
+  spec.summary       = "Adds a HTML generated copyright to a rails application"
+  spec.description   = "Contains the features that enable you to add copyright"
   spec.homepage      = "https://www.earnestaddae.me"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
