@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-Simply generates HTML copyright for your application
+Simply generates HTML copyright for your application 
+```ruby
+EarnestCopyright::Renderer.copyright("App Name", "All rights reserved")
+```
 
 ## Development
 
