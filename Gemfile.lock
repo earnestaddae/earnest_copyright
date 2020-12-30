@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    earnest_copyright (0.1.0)
+    earnest-copyright (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -32,7 +32,7 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
-  earnest_copyright!
+  earnest-copyright!
   rake (~> 13.0)
   rubocop (~> 0.80)
 
