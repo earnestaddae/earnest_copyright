@@ -3,7 +3,7 @@
 require_relative "lib/earnest_copyright/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "earnest-copyright"
+  spec.name          = "earnest_copyright"
   spec.version       = EarnestCopyright::VERSION
   spec.authors       = ["Ernest Addae"]
   spec.email         = ["earnestaddae@gmail.com"]
